@@ -1,4 +1,4 @@
-# Refund Template
+# Refund 
 
 Projeto de estudo desenvolvido com HTML, CSS e JavaScript puro para simular uma tela de solicitação de reembolso. A aplicação permite cadastrar despesas, exibir os itens em uma lista, calcular o total automaticamente e remover registros da interface.
 
